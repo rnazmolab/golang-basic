@@ -1,6 +1,6 @@
 # golang-basic-project
 
-A tiny live demo of Golang project.
+A tiny live demo of basic Golang project.
 
 ## Badges
 
@@ -15,8 +15,7 @@ Create a live demo for basic Golang project for my own reference.
 - Go1.16
 - Go Modules
 - Tests
-
-TODO:
+- GitHub Actions
 
 ## TODO
 
