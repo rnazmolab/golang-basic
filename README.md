@@ -18,9 +18,17 @@ TODO:
 
 - Add `go.mod` via `go mod init github.com/rnazmolab/golang-basic-project`
 - Add GitHub Actions
+- Add `.editorconfig`
+- Add `.vscode/` for VS Code settings
 - Use golangci-lint
 - Add benchmark
 - Use goreleaser
+
+## Memo
+
+### 'Golang Standard Project Layout'
+
+Read: https://github.com/golang-standards/project-layout/issues/117#issuecomment-828503689
 
 ## Resources
 
