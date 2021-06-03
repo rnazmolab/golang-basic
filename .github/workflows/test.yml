@@ -16,7 +16,7 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v2
       - name: Print the Golang version
-        run: go --version
+        run: go version
       - name: Run tests
         run: |
           make test
