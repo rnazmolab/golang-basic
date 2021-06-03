@@ -2,6 +2,10 @@
 
 A tiny live demo of Golang project.
 
+## Badges
+
+[![Test](https://github.com/rnazmolab/golang-basic-project/actions/workflows/test.yml/badge.svg)](https://github.com/rnazmolab/golang-basic-project/actions/workflows/test.yml)
+
 ## Purpose of this repo
 
 Create a live demo for basic Golang project for my own reference.
