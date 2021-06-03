@@ -22,8 +22,16 @@ Create a live demo for basic Golang project for my own reference.
 - Add `go.mod` via `go mod init github.com/rnazmolab/golang-basic-project`
 - Add `.vscode/` for VS Code settings
 - Use golangci-lint
+- Add commants to Makefile
+  - lint
+  - bench
+  - (build)
+  - cross-build
+  - install
+  - bump
 - Add benchmark
 - Use goreleaser
+- Add `tools.go`
 
 ## Memo
 
