@@ -1,10 +1,10 @@
 # golang-basic
 
-A minimal live demo of Golang.
+A tiny live demo of Golang project.
 
 ## Purpose of this repo
 
-Create a live demo for GitHub Pages for my own reference.
+Create a live demo for basic Golang project for my own reference.
 
 ## Contents
 
