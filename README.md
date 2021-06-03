@@ -8,14 +8,18 @@ Create a live demo for basic Golang project for my own reference.
 
 ## Contents
 
+- Go1.16
+- Go Modules
+- Tests
+
 TODO:
 
 ## TODO
 
-- Add main package
-- Add tests
+- Add `go.mod` via `go mod init github.com/rnazmolab/golang-basic-project`
 - Add GitHub Actions
 - Use golangci-lint
+- Add benchmark
 - Use goreleaser
 
 ## Resources
