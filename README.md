@@ -21,8 +21,6 @@ TODO:
 ## TODO
 
 - Add `go.mod` via `go mod init github.com/rnazmolab/golang-basic-project`
-- Add GitHub Actions
-- Add `.editorconfig`
 - Add `.vscode/` for VS Code settings
 - Use golangci-lint
 - Add benchmark
