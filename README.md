@@ -20,7 +20,7 @@ Create a live demo for basic Golang project for my own reference.
 ## TODO
 
 - Add `go.mod` via `go mod init github.com/rnazmolab/golang-basic-project`
-- Add `.vscode/` for VS Code settings
+- Add `/.vscode/` for VS Code settings
 - Use golangci-lint
 - Add commants to Makefile
   - lint
@@ -28,10 +28,12 @@ Create a live demo for basic Golang project for my own reference.
   - (build)
   - cross-build
   - install
+  - coverage
   - bump
 - Add benchmark
 - Use goreleaser
-- Add `tools.go`
+- Add `/tools/tools.go`
+- Add `.gitattributes`
 
 ## Memo
 
