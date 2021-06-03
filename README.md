@@ -1,4 +1,4 @@
-# golang-basic
+# golang-basic-project
 
 A tiny live demo of Golang project.
 
