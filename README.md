@@ -21,6 +21,11 @@ Create a live demo for basic Golang project for my own reference.
 ## TODO
 
 - Use golangci-lint
+- Use Dependabot
+  - Ref: https://dependabot.com/go/
+  - https://songmu.jp/riji/entry/2020-03-23-dependabot.html
+  - https://sue445.hatenablog.com/entry/2021/03/20/075551
+  - https://shogo82148.github.io/blog/2021/03/17/actions-check-permissions/
 - Add commands to Makefile
   - lint
   - bench
