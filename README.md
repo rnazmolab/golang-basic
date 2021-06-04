@@ -21,7 +21,7 @@ Create a live demo for basic Golang project for my own reference.
 
 - Add `/.vscode/` for VS Code settings
 - Use golangci-lint
-- Add commants to Makefile
+- Add commands to Makefile
   - lint
   - bench
   - (build)
