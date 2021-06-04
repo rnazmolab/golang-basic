@@ -16,10 +16,10 @@ Create a live demo for basic Golang project for my own reference.
 - Go Modules
 - Tests
 - GitHub Actions
+- VS Code
 
 ## TODO
 
-- Add `/.vscode/` for VS Code settings
 - Use golangci-lint
 - Add commands to Makefile
   - lint
