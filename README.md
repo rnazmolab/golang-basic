@@ -34,10 +34,15 @@ Create a live demo for basic Golang project for my own reference.
   - install
   - coverage
   - bump
+  - Use Codecov
 - Add benchmark
 - Use goreleaser
 - Add `/tools/tools.go`
 - Add `.gitattributes`
+- Add badges
+  - `go report`: https://goreportcard.com/
+  - `refarence`: https://go.dev/ (via https://pkg.go.dev/badge/)
+  - `coverage`: (ref: https://shields.io/category/coverage)
 
 ## Memo
 
