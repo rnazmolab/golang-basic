@@ -15,7 +15,7 @@ jobs:
           go-version: 1.16.x
       - name: Check out repository code
         uses: actions/checkout@v2
-      - name: Print the Golang version
+      - name: Print the version
         run: go version
       - name: Run tests
         run: |
