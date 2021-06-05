@@ -7,5 +7,6 @@ func add(a, b int) int {
 }
 
 func main() {
-	fmt.Println(add(2, 3))
+	const a, b = 2, 3
+	fmt.Println(add(a, b))
 }
