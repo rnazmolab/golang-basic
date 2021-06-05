@@ -5,6 +5,7 @@ A tiny live demo of basic Golang project.
 ## Badges
 
 [![Test](https://github.com/rnazmolab/golang-basic-project/actions/workflows/test.yml/badge.svg)](https://github.com/rnazmolab/golang-basic-project/actions/workflows/test.yml)
+[![Lint](https://github.com/rnazmolab/golang-basic-project/actions/workflows/lint.yml/badge.svg)](https://github.com/rnazmolab/golang-basic-project/actions/workflows/lint.yml)
 
 ## Purpose of this repo
 
