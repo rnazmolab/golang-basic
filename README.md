@@ -21,6 +21,10 @@ Create a live demo of basic Golang project for my own reference.
 ## TODO
 
 - Use golangci-lint
+  - [x] Add  new workflow `lint` with golangci-lint
+  - [ ] Add `.golangci.yml`
+  - [ ] Add a new script`/devel-tools/install-golangci-lint.sh`. (ref: https://golangci-lint.run/usage/install/#linux-and-windows)
+  - [ ] Add a new command `lint` to Makefile (ref: https://golangci-lint.run/usage/quick-start/)
 - Use Dependabot
   - Ref: https://dependabot.com/go/
   - https://songmu.jp/riji/entry/2020-03-23-dependabot.html
