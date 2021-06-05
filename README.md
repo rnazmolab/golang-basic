@@ -54,6 +54,25 @@ Create a live demo of basic Golang project **for my own reference**.
 
 Read: https://github.com/golang-standards/project-layout/issues/117#issuecomment-828503689
 
+## Env
+
+```console
+$ property         
+property v0.1.1 - A tiny Bash script to get OS and other
+software version info. https://github.com/rnazmo/property
+============================================================
+OS NAME      : Kali GNU/Linux Rolling
+OS VERSION   : 2021.2
+Default Shell: Zsh
+Bash VERSION : 5.1.4(1)-release (x86_64-pc-linux-gnu)
+Zsh VERSION  : 5.8 (x86_64-debian-linux-gnu)
+CPU ARCH     : x86_64
+============================================================
+
+$ go version                      
+go version go1.16 linux/amd64
+```
+
 ## Resources
 
 TODO:
