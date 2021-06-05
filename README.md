@@ -8,7 +8,7 @@ A tiny live demo of basic Golang project.
 
 ## Purpose of this repo
 
-Create a live demo of basic Golang project for my own reference.
+Create a live demo of basic Golang project **for my own reference**.
 
 ## Contents
 
