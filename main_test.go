@@ -3,7 +3,7 @@ package main
 import "testing"
 
 func TestAdd(t *testing.T) {
-		tests := []struct {
+	tests := []struct {
 		a    int
 		b    int
 		want int
